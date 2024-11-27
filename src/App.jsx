@@ -186,7 +186,7 @@ function App() {
           <div className="info-card">
             <i className="fas fa-envelope"></i>
             <h4>CONTACT EMAIL</h4>
-            <p>khadijatagui@gmail.com</p>
+            <p>khadijatagui5@gmail.com</p>
           </div>
           <div className="info-card">
             <i className="fas fa-phone"></i>
@@ -199,5 +199,5 @@ function App() {
     </>
   );
 }
-
+                
 export default App;
