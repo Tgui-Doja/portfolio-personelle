@@ -169,7 +169,7 @@ function App() {
           <span>Js</span>
         </div>
         <div className="project-links">
-          <a href="https://github.com/khadijaTagui/calculator-.git" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://github.com/Tgui-Doja/calculator.git" target="_blank" rel="noopener noreferrer">GitHub</a>
         </div>
       </div>
     </div>
