@@ -121,7 +121,7 @@ function App() {
           <span>CSS</span>
         </div>
         <div className="project-links">
-          <a href="https://github.com/Tgui-Doja/burger-craze" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://github.com/Tgui-Doja/make-web-site.git" target="_blank" rel="noopener noreferrer">GitHub</a>
         </div>
       </div>
     </div>
