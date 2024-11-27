@@ -137,7 +137,7 @@ function App() {
           <span>Js</span>
         </div>
         <div className="project-links">
-          <a href="https://github.com/khadijaTagui/World-News.git" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://github.com/Tgui-Doja/WorldNews.git" target="_blank" rel="noopener noreferrer">GitHub</a>
         </div>
       </div>
     </div>
